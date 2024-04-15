@@ -1,0 +1,45 @@
+if (localStorage.getItem('keepSession') && localStorage.getItem('keepSession') === 'true') {
+  console.log('保留session --- ');
+} else {
+  console.log('清除session --- ');
+  localStorage.removeItem("chat-next-web-store");
+}
+
+if(location.hostname === 'metaso.cn' && window.location.href.indexOf('autologin')===-1){
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://static.cloudflareinsights.com/beacon.min.js";
+    hm.setAttribute("data-cf-beacon", '{"token": "edfca2dc653a4c2c9783fbc91f0b71c1"}');
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+}
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function () {
+    navigator.serviceWorker.register('/serviceWorker.js').then(function (registration) {
+      console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }, function (err) {
+      console.error('ServiceWorker registration failed: ', err);
+    });
+  });
+}
+
+// window.addEventListener('storage', (e) => {
+//   console.log('storage change:', e);
+//   let storageArea = e.storageArea;
+//   localStorage.setItem("chat-next-web-store", storageArea.getItem("chat-next-web-store"));
+// })
+
+
+localStorage.setItem("cloudflareVerifySuccess", "true");
+
+let API_DOMAIN = 'https://metamiao.metasotalaw.cn';
+if (location.href.indexOf("metamiaoalph.metasotalaw.cn") > -1) {
+  API_DOMAIN = 'https://metamiaoalph.metasotalaw.cn';
+} else if (location.href.indexOf("metamiaobeta.metasotalaw.cn") > -1) {
+  API_DOMAIN = 'https://metamiaobeta.metasotalaw.cn';
+} else if (location.href.indexOf("metaso.cn") > -1) {
+  API_DOMAIN = 'https://metaso.cn';
+}

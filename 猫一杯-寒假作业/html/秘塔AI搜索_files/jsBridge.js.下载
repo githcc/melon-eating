@@ -1,0 +1,3 @@
+function PostMessage(data){
+  window.postMessage(data)
+}
