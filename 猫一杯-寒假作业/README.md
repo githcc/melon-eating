@@ -36,7 +36,7 @@
        [原地址-已被隐藏/删除](https://www.youtube.com/watch?v=AH5OBKosRt8)
 2. 双减政策
    1. [中国教育部:小学一、二年级不布置家庭书面作业](html/t20210724_546576.html)
-      1. [原地址](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202107/t20210724_546576.html)
+      1. [原地址](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202107/t20210724_546576.html#:~:text=学校要确保小学一、二年级不布置家庭书面作业)
 3. 视频的分析-封杀前
    <br>
    <video controls width="56%">
