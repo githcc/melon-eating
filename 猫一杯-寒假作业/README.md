@@ -38,6 +38,4 @@
    2. 否
       1. 避免清算
 
-## 视频
-1. [b站](https://www.bilibili.com/video/BV1cM4m1X7Rx/)
 
