@@ -1,30 +1,25 @@
 ## 初步查看内容
-### b站：猫一杯被全网封号...
-<video controls>
+### 1. b站：猫一杯被全网封号...
+<video controls width="100%">
   <source src="video/BV1YH4y1M7GT.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> <br>
 
 [原地址](https://www.bilibili.com/video/BV1YH4y1M7GT)
 
-### 百度：网传小学生寒假作业被落巴黎厕所
-<video controls>
-  <source src="video/368790.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> <br>
-
+### 2. [百度：网传小学生寒假作业被落巴黎厕所](https://events.baidu.com/search/vein?record_id=368790)
 [原地址](https://events.baidu.com/search/vein?record_id=368790)
 
 
-### [秘塔AI：猫一杯](md/密塔：猫一杯.md)
+### 3. [秘塔AI：猫一杯](md/密塔：猫一杯.md)
 [原地址](https://metaso.cn/?q=猫一杯)
 
 ## 初步发散
 1. 类似的视频
    1. 巴黎圣母院
       <br> 
-      <video controls>
-        <source src="video/368790.mp4" type="video/mp4">
+      <video controls width="100%">
+        <source src="video/OKJG78g5qoA.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video> <br>
 
@@ -33,7 +28,7 @@
       [原地址](https://www.gov.cn/xinwen/2019-11/06/content_5449464.htm)
    2. 白云机场大拇哥
       <br> 
-      <video controls>
+      <video controls width="100%">
         <source src="video/AH5OBKosRt8.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video> <br>
