@@ -23,7 +23,7 @@
         Your browser does not support the video tag.
       </video> <br>
 
-      [原地址-已被隐藏/删除](https://www.youtube.com/watch?v=OKJG78g5qoA) <br>
+      [原地址-已被隐藏/删除](https://www.youtube.com/watch?v=OKJG78g5qoA) <br><br>
       [国家文物局：中法达成共识 中国专家将参与巴黎圣母院修复工作](html/5449464.html) <br>
       [原地址](https://www.gov.cn/xinwen/2019-11/06/content_5449464.htm)
    2. 白云机场大拇哥
@@ -38,11 +38,21 @@
    1. [中国教育部:小学一、二年级不布置家庭书面作业](html/t20210724_546576.html)
       1. [原地址](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202107/t20210724_546576.html)
 3. 视频的分析-封杀前
-   1. [秦朗寒假作业被带回国](video/7337710032504573221.mp4)
-      1. [原地址](https://www.douyin.com/video/7337710032504573221)
+   <br>
+   <video controls width="100%">
+   <source src="video/7337710032504573221.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+   </video> <br>
+   
+   [原地址](https://www.douyin.com/video/7337710032504573221)
 4. 联想到的类似事件
-   1. [国外小哥做了一个假新闻耍了电视台](video/BV1QN411n7bc.mp4)
-      1. [原地址](https://www.bilibili.com/video/BV1QN411n7bc)
+   <br>
+   <video controls width="100%">
+   <source src="video/BV1QN411n7bc.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+   </video> <br>
+   
+   [原地址](https://www.bilibili.com/video/BV1QN411n7bc)
 
 
 ## 初步分析选择
