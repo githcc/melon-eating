@@ -39,7 +39,7 @@
       1. [原地址](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202107/t20210724_546576.html)
 3. 视频的分析-封杀前
    <br>
-   <video controls width="100%">
+   <video controls width="56%">
    <source src="video/7337710032504573221.mp4" type="video/mp4">
    Your browser does not support the video tag.
    </video> <br>
