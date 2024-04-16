@@ -7,7 +7,7 @@
 
 [原地址](https://www.bilibili.com/video/BV1YH4y1M7GT)
 
-### 2. [百度：网传小学生寒假作业被落巴黎厕所](https://events.baidu.com/search/vein?record_id=368790)
+### 2. [百度：网传小学生寒假作业被落巴黎厕所](html/368790.html)
 [原地址](https://events.baidu.com/search/vein?record_id=368790)
 
 
