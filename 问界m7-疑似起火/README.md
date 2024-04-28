@@ -1,37 +1,41 @@
 ## 事件
 1. 西瓜视频：问界M7车祸起火，车门窗户无法打开，三人烧死！
+   <br>
    <video controls width="100%">
   <source src="video/7362553732745134602.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> <br>
+   </video> <br>
 
 
 [原地址](https://www.ixigua.com/7362553732745134602)
 
 2. 抖音：今天网传的问界M7高速追尾起火的视频，让人很心！生命很可贵，誓者安息，家属节哀。
+   <br>
    <video controls width="100%">
   <source src="video/7362610319413300518.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> <br>
+   </video> <br>
 
 [原地址](https://www.douyin.com/video/7362610319413300518)
 
 ## 不建议，疑似黑小米
 1. b站：车企玩周边不把安全放第一位，消费者该怎么办
+   <br>
    <video controls width="100%">
   <source src="video/BV1MF4m1A73g.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> <br>
+   </video> <br>
 
 
 [原地址](https://www.bilibili.com/video/BV1MF4m1A73g)
 
 
 2. b站：看上丹霞橙的问界M9了
+   <br>
    <video controls width="100%">
   <source src="video/BV1MF4m1A73g.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> <br>
+   </video> <br>
 
 
 [原地址](https://www.bilibili.com/video/BV1MM4m1f7P3)
@@ -39,10 +43,11 @@
 
 
 3. b站：以人为本造好车，以钱为本造周边，以猴为本
+   <br>
    <video controls width="100%">
   <source src="video/BV11w4m1y7Wq.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> <br>
+   </video> <br>
 
 
 [原地址](https://www.bilibili.com/video/BV11w4m1y7Wq)
@@ -51,19 +56,21 @@
 
 ## 建议，夸赞自己认可的品牌
 1. 抖音：雷军对话王传福，全程实打实顶级营销案例
+   <br>
    <video controls width="100%">
   <source src="video/7362042810112937242.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> <br>
+   </video> <br>
 
 [原地址](https://www.douyin.com/video/7362042810112937242)
 
 
 2. b站：最全华为被制裁简史：1500个日夜，100条制裁措施，它居然活下来了！
+   <br>
    <video controls width="100%">
   <source src="video/BV16L411v7ek.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> <br>
+   </video> <br>
 
 原视频超过100M，找了个画质低些的视频，建议查看原地址
 
