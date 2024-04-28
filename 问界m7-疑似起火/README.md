@@ -11,7 +11,7 @@
 
 2. 抖音：今天网传的问界M7高速追尾起火的视频，让人很心！生命很可贵，誓者安息，家属节哀。
 <br>
-<video controls width="100%">
+<video controls width="56%">
   <source src="video/7362610319413300518.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> <br>
@@ -57,7 +57,7 @@
 ## 建议，夸赞自己认可的品牌
 1. 抖音：雷军对话王传福，全程实打实顶级营销案例
 <br>
-<video controls width="100%">
+<video controls width="56%">
   <source src="video/7362042810112937242.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> <br>
