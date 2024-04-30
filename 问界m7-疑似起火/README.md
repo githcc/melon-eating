@@ -9,7 +9,14 @@
 
 [原地址](https://www.ixigua.com/7362553732745134602)
 
-2. 抖音：今天网传的问界M7高速追尾起火的视频，让人很心！生命很可贵，誓者安息，家属节哀。
+2. [百度：问界M7起火事故](html/414090.html)
+[原地址](https://events.baidu.com/search/vein?record_id=414090)
+
+
+3. [秘塔AI：问界M7起火事故](md/问界M7起火事故.md)
+[原地址](https://metaso.cn/?q=问界M7起火事故)
+
+4. 抖音：今天网传的问界M7高速追尾起火的视频，让人很心！生命很可贵，誓者安息，家属节哀。
 <br>
 <video controls width="56%">
   <source src="video/7362610319413300518.mp4" type="video/mp4">
@@ -17,7 +24,6 @@
 </video> <br>
 
 [原地址](https://www.douyin.com/video/7362610319413300518)
-
 ## 不建议，疑似黑小米
 1. b站：车企玩周边不把安全放第一位，消费者该怎么办
 <br>
